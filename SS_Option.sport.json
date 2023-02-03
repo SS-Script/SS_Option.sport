@@ -4,6 +4,11 @@
             "ss_name": "SS_Option.sport",
             "id":"110.169.156.90",
             "ver":"1.0.0"
+        },
+        {
+            "ss_name": "SS_setDamage",
+            "id":"110.169.156.90",
+            "ver":"1.0.0"
         }
     ]
 }
